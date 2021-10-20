@@ -1,5 +1,9 @@
-1. -[Router路由器](https://zh.wikipedia.org/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8)
-router  is a telecommunications(電信) network device that provides two important mechanisms: routing and forwarding . 
+1. -[Router路由器]()
+
+router  is a telecommunications(電信) network device that provides two important mechanisms(機制): routing(路由) and forwarding(轉送) . 
+The main purpose(目的) of a router is to connect(連結) multiple(多個) networks and forward packets(轉發數據包) 
+destined either for directly attached networks or more remote networks
+
 2. Repeater中繼器
 
 3. Hub集線器
